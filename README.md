@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/1809014618.png" alt="eye-catch" width="600">
+  <img src="assets/eye-catch.png" alt="eye-catch" width="600">
   <br />
   <br />
   <h1 align="center">''⭐️ FACE01 / JAPANESE FACE V1 ⭐️''</h1>

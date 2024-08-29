@@ -2,13 +2,12 @@
   <img src="assets/1809014618.png" alt="eye-catch" width="600">
   <br />
   <br />
-  <h1 align="center">FACE01 / JAPANESE FACE V1</h1>
+  <h1 align="center">''⭐️ FACE01 / JAPANESE FACE V1 ⭐️''</h1>
 
-  <!-- Like のバッジ -->
-  <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/likes?style=flat" alt="Likes" /></a>
+  <!-- <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/likes?style=flat" alt="Likes" /></a>
 
-  <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/articles?style=flat" alt="Articles" /></a>
+  <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/articles?style=flat" alt="Articles" /></a> -->
+
 </p>
 
 <hr />

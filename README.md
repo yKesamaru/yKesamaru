@@ -5,14 +5,10 @@
   <h1 align="center">FACE01 / JAPANESE FACE V1</h1>
 
   <!-- Like のバッジ -->
-  <a href="https://zenn.dev/yKesamaru">
-    <img src="https://zenn.badge.nikaera.com/s/yKesamaru/likes?style=plastic" alt="yKesamaru likes" />
-  </a>
+  <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/likes?style=flat" alt="Likes" /></a>
 
   <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/yKesamaru/articles">
-    <img src="https://zenn.badge.nikaera.com/s/yKesamaru/articles?style=plastic" alt="yKesamaru articles" />
-  </a>
+  <a href="https://zenn.dev/yKesamaru"><img src="https://badgen.org/img/zenn/yKesamaru/articles?style=flat" alt="Articles" /></a>
 </p>
 
 <hr />

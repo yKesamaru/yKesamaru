@@ -6,6 +6,9 @@
 </p>
 <hr />
 
+<h2><img src=assets/logo-only.svg width="30">Latest Post</h2>
+<!-- <h2><img src=assets/zenn.png width="200">Latest Post</h2> -->
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

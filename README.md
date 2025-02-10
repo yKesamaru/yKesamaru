@@ -10,13 +10,13 @@
 <!-- <h2><img src=assets/zenn.png width="200">Latest Post</h2> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [VOICEVOXから発話と完全同期するSRTファイルを出力するツールを作ったよ](https://zenn.dev/ykesamaru/articles/352eed1ec1a79a)
 - [FFmpegベンチマーク&amp;おまけ](https://zenn.dev/ykesamaru/articles/8be613537cbccc)
 - [フリーの事前顔学習済みモデル11種の精度評価](https://zenn.dev/ykesamaru/articles/40f9e964539e31)
 - [deepFace:独自DockerコンテナでGPUから利用する](https://zenn.dev/ykesamaru/articles/38329e86116f2b)
 - [たのしいML/DM分類表](https://zenn.dev/ykesamaru/articles/0178a5d24ec2b7)
 - [RAdamScheduleFreeは素晴らしいぞ！](https://zenn.dev/ykesamaru/articles/5e19e38990345f)
 - [時間圧縮可視化: 監視システムの監視を楽にしよう](https://zenn.dev/ykesamaru/articles/0ba179cca20db8)
-- [顔認証に使う学習モデルを作ろう！⭐️](https://zenn.dev/ykesamaru/articles/a90f2f204e187b)
 <!-- BLOG-POST-LIST:END -->
 
 <hr />
